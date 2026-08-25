@@ -1,4 +1,4 @@
-# personal_projects# Classification Model Comparison: Preprocessing, Cross-Validation & Ensemble Methods
+# personal_projects: Classification Model Comparison: Preprocessing, Cross-Validation & Ensemble Methods
 
 A hands-on machine learning project exploring the full model-building pipeline — from data cleaning through to ensemble methods and hyperparameter tuning — applied to an employee performance dataset alongside benchmark datasets (Iris, Wine).
 
